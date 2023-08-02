@@ -3,4 +3,4 @@
 
 
 <title>Pacmen Factory</title>
-<link src="https://nickusey.github.io/pacmen_factory/"></link>
+<a href="https://nickusey.github.io/pacmen_factory/">Pacmen Factory</a>
