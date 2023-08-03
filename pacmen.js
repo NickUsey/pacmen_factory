@@ -1,7 +1,7 @@
 var pos = 0;
 const pacArray = [
-  ['./https://github.com/NickUsey/pacmen_factory/blob/main/images/PacMan1.png', './https://github.com/NickUsey/pacmen_factory/blob/main/images/PacMan2.png'],
-  ['./https://github.com/NickUsey/pacmen_factory/blob/main/images//PacMan3.png', './https://github.com/NickUsey/pacmen_factory/blob/main/images/PacMan4.png'],
+  ['./images/PacMan1.png', './images/PacMan2.png'],
+  ['./images/PacMan3.png', './images/PacMan4.png'],
 ];
 var direction = 0;
 const pacMen = [];
